@@ -15,4 +15,16 @@
         xsi:type="archimate:ApplicationInterface"
         href="ApplicationInterface_8d6fc031-70e8-4b03-a4d2-4b42d4a9cb0b.xml#8d6fc031-70e8-4b03-a4d2-4b42d4a9cb0b"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="08f815dc-e8bd-49b1-885c-69c5cb60a297">
+    <bounds
+        x="335"
+        y="433"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_6c7d5bf1-0104-4b72-8a73-26ca454f1c50.xml#6c7d5bf1-0104-4b72-8a73-26ca454f1c50"/>
+  </children>
 </archimate:ArchimateDiagramModel>

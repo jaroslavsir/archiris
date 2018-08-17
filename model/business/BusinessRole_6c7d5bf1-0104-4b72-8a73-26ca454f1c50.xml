@@ -1,4 +1,5 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Hodnotitel"
-    id="6c7d5bf1-0104-4b72-8a73-26ca454f1c50"/>
+    id="6c7d5bf1-0104-4b72-8a73-26ca454f1c50"
+    documentation="Toto je role CD"/>
